@@ -29,6 +29,7 @@ I am a Frontend, Backend and Android Developer🎡, Beside that I am Ethical Hac
 + Sublist3r
 + Shodan.io
 + lazys3 (My favourite By Nahamsec)
++ etc
 
 ### 👨‍💻 Programming languages
 
