@@ -9,14 +9,14 @@ Hi, I'm Harsha!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
-I am a Frontend and Backend and Android Developer🎡, Beside that I am Ethical Hacker👩‍🎓, Certified By 🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+I am a Frontend and Backend and Android Developer🎡, Beside that I am Ethical Hacker👩‍🎓, Certified By TCM Security 🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashitanamdeo&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harsha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MaramHarsha&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
