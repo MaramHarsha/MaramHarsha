@@ -9,7 +9,7 @@ Hi, I'm Harsha!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;At+JK+Lakshmipat+University;Full+Stack+Web+Developer;Android+Developer;TCM+Security+Certified;Ethical+Hacker;Addicted+to+Hacking;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
-I am a Frontend and Backend and Android Developer🎡, Beside that I am Ethical Hacker👩‍🎓, Certified By TCM Security 🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+I am a Frontend, Backend and Android Developer🎡, Beside that I am Ethical Hacker👩‍🎓, Certified By TCM Security 🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 
 ## 🔥 Streak stats
 
