@@ -1,7 +1,6 @@
 <h1 align="center">
 Hi, I'm Harsha!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/MaramHarsha" alt="Profile views" align='right'/> <a href="https://github.com/MaramHarsha/MaramHarsha/"> </a>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
