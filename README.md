@@ -17,7 +17,7 @@
 
 - 💻 Full Stack Developer (Frontend + Backend)
 - 📱 Android Developer  
-- 🔐 Ethical Hacker (TCM Security Certified)  
+- 🔐 Ethical Hacker (CEH Master - EC-Council)  
 - 🎯 Passionate about cybersecurity & building secure systems  
 - 📚 Constant learner exploring new technologies  
 
