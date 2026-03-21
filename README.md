@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Developer;Android+Developer;Ethical+Hacker;TCM+Security+Certified;Always+learning+new+things&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Vibe+Coder;Full+Stack+Developer;Ethical+Hacker+(CEH+Master+Certified);Cybersecurity+Researcher;Always+Learning+New+Things&center=true&width=420&height=45">
   </a>
 </p>
 
@@ -16,7 +16,6 @@
 ## 👨‍💻 About Me
 
 - 💻 Full Stack Developer (Frontend + Backend)
-- 📱 Android Developer  
 - 🔐 Ethical Hacker (CEH Master - EC-Council)  
 - 🎯 Passionate about cybersecurity & building secure systems  
 - 📚 Constant learner exploring new technologies  
