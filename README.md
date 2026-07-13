@@ -1,94 +1,120 @@
 <h1 align="center">
-  Hi, I'm Harsha! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Sai+Harsha!+👋;Ethical+Hacker+(CEH+Master);Full+Stack+Developer;Cybersecurity+Researcher" alt="Typing SVG" />
 </h1>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Status-Online-39FF14?style=flat-square" alt="System Status" />
+  <img src="https://img.shields.io/badge/Security_Level-Root-red?style=flat-square" alt="Security Level" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Vibe+Coder;Full+Stack+Developer;Ethical+Hacker+(CEH+Master+Certified);Cybersecurity+Researcher;Always+Learning+New+Things&center=true&width=420&height=45">
+  <a href="https://github.com/MaramHarsha?tab=followers">
+    <img src="https://img.shields.io/github/followers/MaramHarsha?label=Follow%20Me&style=for-the-badge&color=FF0055&logo=github&logoColor=white" alt="Follow Me" />
+  </a>
+  <a href="https://github.com/MaramHarsha">
+    <img src="https://komarev.com/ghpvc/?username=MaramHarsha&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
-<hr/>
+---
 
-## 👨‍💻 About Me
+<table border="0" align="center">
+  <tr>
+    <td width="55%" valign="top">
+      
+      ### 👨‍💻 Quick Terminus
+      
+      - 🔐 **Ethical Hacker** | CEH Master Certified by EC-Council
+      - 💻 **Full Stack Developer** | React, Node.js, Java & Python
+      - 🛡️ **Cybersecurity Researcher** | Focus on secure software development & penetration testing
+      - 🧠 **Continuous Explorer** | Deep-diving into Web3, DevSecOps & Cloud Security
+      
+      <br/>
 
-- 💻 Full Stack Developer (Frontend + Backend)
-- 🔐 Ethical Hacker (CEH Master - EC-Council)  
-- 🎯 Passionate about cybersecurity & building secure systems  
-- 📚 Constant learner exploring new technologies  
+      ### 🚀 Interactive Dossier
+      
+      <details>
+        <summary>🔐 <b>Certifications & Expertise</b></summary>
+        <br/>
+        <ul>
+          <li><b>CEH (Certified Ethical Hacker) Master</b> - Certified in advanced penetration testing techniques and ethical hacking.</li>
+          <li><b>Web Security</b> - OWASP Top 10, Secure Code Auditing, and Vulnerability Assessment.</li>
+          <li><b>Backend Architectures</b> - Designing robust APIs, secure database models, and server deployments.</li>
+        </ul>
+      </details>
+      
+      <details>
+        <summary>🎯 <b>Current Missions</b></summary>
+        <br/>
+        <ul>
+          <li>Building secure full-stack applications with integrated security scans (DevSecOps).</li>
+          <li>Participating in Bug Bounty programs and capturing CTF flags.</li>
+          <li>Contributing to open-source developer tooling and cybersecurity resources.</li>
+        </ul>
+      </details>
+      
+      <details>
+        <summary>⚡ <b>Fun Facts & Vibe</b></summary>
+        <br/>
+        <ul>
+          <li>"The best way to predict the future is to invent it safely."</li>
+          <li>I drink a lot of coffee ☕ and read technical RFCs for fun.</li>
+          <li>I believe security should be baked into software, not brushed on top.</li>
+        </ul>
+      </details>
+      
+    </td>
+    <td width="45%" valign="top" align="center">
+      
+      ### 📊 Live Matrix
+      
+      <a href="https://github.com/MaramHarsha">
+        <img src="https://github-readme-stats.vercel.app/api?username=MaramHarsha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="Harsha's Stats" />
+      </a>
+      
+      <a href="https://github.com/MaramHarsha">
+        <img src="https://streak-stats.demolab.com/?user=MaramHarsha&theme=tokyonight&hide_border=true" width="100%" alt="Harsha's Streak" />
+      </a>
+
+      <a href="https://github.com/MaramHarsha">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaramHarsha&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      </a>
+      
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔥 GitHub Streak
-
+<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaramHarsha&theme=monokai-metallian&hide_border=true"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,py,php,mysql,react,wordpress,mongodb,firebase,heroku,github,vscode,postman,git,androidstudio&perline=10" alt="Tech Stack" />
+  </a>
 </p>
 
+---
+
+<h2 align="center">🐍 Contribution Matrix</h2>
 <p align="center">
-  <b>"If you can dream it, you can do it."</b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaramHarsha/MaramHarsha/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaramHarsha/MaramHarsha/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MaramHarsha/MaramHarsha/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
-</p>
-
----
-
-## 🧰 Frameworks & Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white">
-</p>
-
----
-
-## 🗄️ Databases & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
-</p>
-
----
-
-## 💻 Tools & Software
-
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white">
-</p>
-
----
-## 🙋‍♂️ Connect With Me
-
+<h2 align="center">🤝 Secure Connection Established</h2>
 <p align="center">
-  <a href="https://maramsaiharsha.netlify.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png"/></a>
-  <a href="https://github.com/MaramHarsha"><img src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>
-  <a href="https://www.linkedin.com/in/maram-sai-harsha/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
-  <a href="mailto:maramsaiharsha128@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>
+  <a href="https://maramsaiharsha.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/maram-sai-harsha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:maramsaiharsha128@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
