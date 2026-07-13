@@ -21,18 +21,15 @@
 <table border="0" align="center">
   <tr>
     <td width="55%" valign="top">
-      
-      ### 👨‍💻 Quick Terminus
-      
-      - 🔐 **Ethical Hacker** | CEH Master Certified by EC-Council
-      - 💻 **Full Stack Developer** | React, Node.js, Java & Python
-      - 🛡️ **Cybersecurity Researcher** | Focus on secure software development & penetration testing
-      - 🧠 **Continuous Explorer** | Deep-diving into Web3, DevSecOps & Cloud Security
-      
+      <h3>👨‍💻 Quick Terminus</h3>
+      <ul>
+        <li>🔐 <b>Ethical Hacker</b> | CEH Master Certified by EC-Council</li>
+        <li>💻 <b>Full Stack Developer</b> | React, Node.js, Java & Python</li>
+        <li>🛡️ <b>Cybersecurity Researcher</b> | Focus on secure software development & penetration testing</li>
+        <li>🧠 <b>Continuous Explorer</b> | Deep-diving into Web3, DevSecOps & Cloud Security</li>
+      </ul>
       <br/>
-
-      ### 🚀 Interactive Dossier
-      
+      <h3>🚀 Interactive Dossier</h3>
       <details>
         <summary>🔐 <b>Certifications & Expertise</b></summary>
         <br/>
@@ -42,7 +39,6 @@
           <li><b>Backend Architectures</b> - Designing robust APIs, secure database models, and server deployments.</li>
         </ul>
       </details>
-      
       <details>
         <summary>🎯 <b>Current Missions</b></summary>
         <br/>
@@ -52,34 +48,29 @@
           <li>Contributing to open-source developer tooling and cybersecurity resources.</li>
         </ul>
       </details>
-      
       <details>
         <summary>⚡ <b>Fun Facts & Vibe</b></summary>
         <br/>
         <ul>
-          <li>"The best way to predict the future is to invent it safely."</li>
+          <li><i>"The best way to predict the future is to invent it safely."</i></li>
           <li>I drink a lot of coffee ☕ and read technical RFCs for fun.</li>
           <li>I believe security should be baked into software, not brushed on top.</li>
         </ul>
       </details>
-      
     </td>
     <td width="45%" valign="top" align="center">
-      
-      ### 📊 Live Matrix
-      
+      <h3>📊 Live Matrix</h3>
       <a href="https://github.com/MaramHarsha">
         <img src="https://github-readme-stats.vercel.app/api?username=MaramHarsha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="Harsha's Stats" />
       </a>
-      
+      <br/><br/>
       <a href="https://github.com/MaramHarsha">
         <img src="https://streak-stats.demolab.com/?user=MaramHarsha&theme=tokyonight&hide_border=true" width="100%" alt="Harsha's Streak" />
       </a>
-
+      <br/><br/>
       <a href="https://github.com/MaramHarsha">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaramHarsha&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
       </a>
-      
     </td>
   </tr>
 </table>
